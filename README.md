@@ -1,4 +1,4 @@
-# Projeto-PaupeR
+# Projeto PaupeR
 
 Bem-vindo ao projeto _PaupeR_! Neste repositório você encontrará: 
 
