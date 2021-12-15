@@ -1,3 +1,8 @@
+Os dados tabulados do banco de dados se encontram na pasta [Dados tabulados](https://github.com/thirisi/Projeto-PaupeR/tree/main/Banco%20de%20dados/Dados%20tabulados). Nesta pasta também serão encontradas mais detalhadas sobre os dados.
+
+Abaixo está incluído um indice onomástico e toponímico utilizado na elaboração dos bancos de dados. 
+
+
 | Nome Latino                                          | Nome Aportuguesado                     | Tipo       | Observacoes   |
 |------------------------------------------------------|----------------------------------------|------------|---------------|
 | Adalhardus Corbeiensis                               | Adalardo de Corbie                     | Onomastico |               |
