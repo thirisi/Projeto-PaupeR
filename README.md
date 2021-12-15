@@ -1,6 +1,6 @@
 # Repositório do Projeto _PaupeR_
 
-Bem-vindo ao repositório do projeto _PaupeR_! Aqui estão compilados todos os produtos derivados da pesquisa de Pós-Doutorado "O pobre e a pobreza na Alta Idade Média (séculos VI-IX): estudo linguístico e histórico", de autoria de Thiago Juarez Ribeiro da Silva, e financiada pela **FAPESP**, processo no.2018/11355-8.
+Bem-vindo ao repositório do projeto _PaupeR_! Aqui estão compilados todos os produtos derivados da pesquisa de Pós-Doutorado "O pobre e a pobreza na Alta Idade Média (séculos VI-IX): estudo linguístico e histórico", de autoria de Thiago Juarez Ribeiro da Silva, sob a supervisão de Marcelo Cândido da Silva, apoiada pela Universidade de São Paulo e financiada pela **FAPESP**, processo no.2018/11355-8.
 
 
 Neste repositório você encontrará: 
