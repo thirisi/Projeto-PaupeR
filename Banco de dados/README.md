@@ -1,6 +1,6 @@
 Os dados tabulados do banco de dados se encontram na pasta [Dados tabulados](https://github.com/thirisi/Projeto-PaupeR/tree/main/Banco%20de%20dados/Dados%20tabulados). Na mesma pasta também serão encontradas informações mais detalhadas sobre os dados.
 
-Abaixo está incluído um indice onomástico e toponímico utilizado na elaboração dos bancos de dados. 
+Abaixo está incluído um indice onomástico e toponímico utilizado na elaboração dos bancos de dados. Acentos e pontuações foram omitidas pelas limitações de leitura destas informações no programa _PaupeR_. 
 
 
 | Nome Latino                                          | Nome Aportuguesado                     | Tipo       | Observacoes   |
