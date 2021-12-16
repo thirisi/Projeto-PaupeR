@@ -19,6 +19,6 @@ Este projeto se benficiou diretamente das contribuições das seguintes pessoas:
 - Thiago Juarez Ribeiro da Silva
 - [Márcio Augusto Diniz](https://www.linkedin.com/in/m%C3%A1rcio-augusto-diniz-3a90a59/)
 - César Augusto Oliveira Coelho 
-- [Vinicius Pereira] (https://viniciusofp.com.br/)
+- [Vinicius Pereira](https://viniciusofp.com.br/)
 - E todos os colegas do [LEME-USP](https://leme.fflch.usp.br/).
 
