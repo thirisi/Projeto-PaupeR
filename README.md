@@ -12,13 +12,11 @@ Bem-vindo ao repositório do projeto _PaupeR_! Aqui estão compilados todos os p
 
 
 
-### Créditos
+### Colaborações
 
-Este projeto se benficiou diretamente das contribuições das seguintes pessoas:
+Este projeto se beneficiou diretamente das contribuições dos seguintes colaboradores:
 
-- Thiago Juarez Ribeiro da Silva
+- [César Augusto Oliveira Coelho](http://lattes.cnpq.br/0546401172454399)
 - [Márcio Augusto Diniz](https://www.linkedin.com/in/m%C3%A1rcio-augusto-diniz-3a90a59/)
-- César Augusto Oliveira Coelho 
 - [Vinicius Pereira](https://viniciusofp.com.br/)
 - E todos os colegas do [LEME-USP](https://leme.fflch.usp.br/).
-
