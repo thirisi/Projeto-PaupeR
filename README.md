@@ -7,7 +7,7 @@ Bem-vindo ao repositório do projeto _PaupeR_! Aqui estão compilados todos os p
 
 - Os [documentos históricos](https://github.com/thirisi/Projeto-PaupeR/tree/main/Documentos-Historicos) do período medieval utilizados como base para a coleta de dados do _PaupeR_
 - Os [dados tabulados do projeto _PaupeR_](https://github.com/thirisi/Projeto-PaupeR/tree/main/Banco%20de%20dados/Dados%20tabulados) em formatos .XLSX, .MD e .CSV  
-- A [página de internet](https://thirisi.github.io/Projeto-PaupeR/) do banco de dados _PaupeR_
+- O link para o [banco de dados _PaupeR_ em formato online](https://thirisi.github.io/Projeto-PaupeR/) 
 - O [programa _PaupeR_ para linguagem R](https://github.com/thirisi/Projeto-PaupeR/tree/main/Programa-PaupeR)
 
 
