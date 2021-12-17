@@ -1,11 +1,14 @@
 ### Libraries
-library(tokenizers) 
+install.packages("tokenizers")
+library(tokenizers)
+install.packages("tidyverse")
 library(tidyverse)
+install.packages("readxl")
 library(readxl)
+install.packages("janitor")
 library(janitor)
 
-
-### Extra
+### First Step
 
 partial_match <- function (pattern, string) {
   
@@ -46,11 +49,11 @@ partial_match <- function (pattern, string) {
 }
 
 ### Data
-dt <- read_xlsx(path = " ", sheet = "Data") %>%
+dt <- read_xlsx(path = "write the path for your file here", sheet = "Data") %>%
   clean_names() 
 glimpse(dt)
 
-lexicon <- read_xlsx(path = " ", sheet = "Lexicon") %>%
+lexicon <- read_xlsx(path = "write the path for your file here", sheet = "Lexicon") %>%
   clean_names()
 
 
