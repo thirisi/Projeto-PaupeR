@@ -20,3 +20,6 @@ Este projeto se beneficiou diretamente das contribuições dos seguintes colabor
 - [Márcio Augusto Diniz](http://lattes.cnpq.br/3713520074266778)
 - [Vinicius Pereira](https://viniciusofp.com.br/)
 - E todos os colegas do [LEME-USP](https://leme.fflch.usp.br/).
+
+### Política de Uso
+A reprodução e download dos conteúdos deste repositório é livre mediante o crédito a seu autor, supervisor, instituição e financiamento.
